@@ -1,0 +1,788 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+
+/* Navbar  */
+
+.navbar {
+    margin-left: 31%;
+    font-size: 1.2rem;
+    margin-top: 60px;
+}
+
+.nav-item {
+    margin-left: 40px;
+    margin-top: 25px;
+    color: #140f0fa4;
+}
+
+.home {
+    color: #000;
+    font-weight: bolder;
+}
+
+.nav-item-active {
+    margin-left: 50px;
+    margin-top: 25px;
+    color: #08bbf7;
+    padding: 15px 33px;
+    font-size: 11px;
+    font-weight: bold;
+    font-size: 18px;
+    border: 1.5px solid #08bbf7;
+    border-radius: 10px;
+}
+
+.navbar svg {
+    margin-left: 25px;
+}
+
+.logo img {
+    margin-left: 165px;
+    position: absolute;
+    top: 8%;
+    margin-left: 130px;
+    filter: invert(1);
+}
+
+
+/* Content-1  */
+
+.content-1 {
+    width: 90%;
+    float: left;
+    margin-top: 120px;
+    margin-left: 130px;
+}
+
+.left-section {
+    width: 50%;
+    float: left;
+}
+
+.left-section .first-heading {
+    font-size: 3.5rem;
+}
+
+.left-section .first-para {
+    margin-top: 50px;
+    line-height: 2;
+    font-size: 1.1rem;
+    color: #140f0fb7;
+}
+
+.left-section .btn {
+    margin-top: 35px;
+    padding: 18px 40px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: none;
+    background-image: linear-gradient(180deg, #08adf6, #056eeb);
+    color: #fff;
+    font-size: 17px;
+    box-shadow: #056eeb 0px 10px 50px -12px;
+}
+
+.right-section {
+    width: 50%;
+    float: right;
+}
+
+.right-section img {
+    position: absolute;
+    top: 28%;
+    left: 55%;
+}
+
+
+/* Content-2  */
+
+.content-2 {
+    width: 95%;
+    float: left;
+}
+
+.content-2 .left-section-2 {
+    width: 50%;
+    float: left;
+    margin-top: 80px;
+    margin-left: 130px;
+}
+
+.content-2 .right-section-2 {
+    width: 35%;
+    float: left;
+    margin-top: 100px;
+}
+
+.content-2 .right-section-2 .second-heading {
+    font-size: 1.9rem;
+    margin-bottom: 60px;
+}
+
+.content-2 .right-section-2 .second-para {
+    font-size: 16px;
+    line-height: 1.7;
+    color: #000000c2;
+}
+
+.btn-1 {
+    margin-top: 35px;
+    padding: 18px 50px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: none;
+    background-image: linear-gradient(180deg, #08adf6, #056eeb);
+    color: #fff;
+    font-size: 17px;
+    box-shadow: #056eeb 0px 10px 50px -12px;
+}
+
+
+/* Content-3    */
+
+.content-3 {
+    width: 100%;
+    float: left;
+}
+
+.left-section-3 {
+    width: 50%;
+    float: left;
+}
+
+.third-heading {
+    font-size: 3rem;
+    margin-top: 170px;
+    margin-left: 135px;
+}
+
+.third-para {
+    margin-top: 50px;
+    margin-left: 135px;
+    line-height: 1.5;
+    color: #000000c2;
+}
+
+.btn-2 {
+    margin-top: 40px;
+    padding: 18px 50px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    border: none;
+    background-image: linear-gradient(180deg, #08adf6, #056eeb);
+    color: #fff;
+    font-size: 17px;
+    box-shadow: #056eeb 0px 10px 50px -12px;
+    margin-left: 135px;
+}
+
+.right-section-3 {
+    width: 44%;
+    float: right;
+    position: absolute;
+    left: 53%;
+    top: 183%;
+}
+
+
+/* Content-4  */
+
+.content-4 {
+    width: 100%;
+    float: left;
+    margin-top: 150px;
+}
+
+.left-section-4 {
+    width: 50%;
+    float: left;
+    margin-left: 135px;
+    font-size: 2rem;
+}
+
+.para-4 {
+    width: 378;
+    float: left;
+    margin-left: -80px;
+    font-size: 1.1rem;
+    margin-top: 20px;
+    line-height: 1.5;
+    color: #000000c2;
+}
+
+
+/* Content-5   */
+
+.content-5 {
+    width: 100%;
+    float: left;
+}
+
+.first-part-logo {
+    width: 80%;
+    float: left;
+    margin-left: 135px;
+    margin-top: 100px;
+}
+
+.box1 {
+    width: 28%;
+    float: left;
+    margin-left: 50px;
+}
+
+.box1 h1 {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.box1 p {
+    line-height: 1.5;
+    color: #000000c2;
+}
+
+.second-part-logo {
+    width: 80%;
+    float: left;
+    margin-left: 135px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.box {
+    width: 28%;
+    float: left;
+    margin-left: 50px;
+}
+
+.box h1 {
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.box p {
+    line-height: 1.5;
+    color: #000000c2;
+}
+
+
+/* Pricing Section  */
+
+.pricing-all {
+    width: 100%;
+    float: left;
+    background-image: linear-gradient(180deg, #08abf6, #056eeb);
+    margin-bottom: 150px;
+}
+
+.pricing-all .content-pricing {
+    text-align: center;
+    margin-bottom: 60px;
+    margin-top: 50px;
+    color: #fff;
+}
+
+.pricing {
+    width: 16%;
+    float: left;
+    margin-left: 230px;
+    border: 2px solid transparent;
+    border-radius: 10px;
+    padding: 30px 30px;
+    background-color: #fff;
+    margin-bottom: 60px;
+}
+
+.list-pricing li {
+    list-style: none;
+    margin-bottom: 20px;
+    margin-left: -60px;
+    margin-top: 10px;
+    width: 200%;
+    font-size: 0.9rem;
+}
+
+.pricing-logo img {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.flex-pricing {
+    display: flex;
+}
+
+.pricing-logo {
+    margin-top: 20px;
+    margin-left: 2px;
+}
+
+.first-pricing p {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+.h1-pricing {
+    margin-top: 50px;
+}
+
+.h1-pricing h1 {
+    margin-left: 25px;
+    font-size: 30px;
+}
+
+.h2-pricing {
+    position: absolute;
+    top: 483%;
+    left: 27.5%;
+    font-size: 30px;
+}
+
+.para-pricing {
+    margin-left: 60px;
+    margin-top: -10px;
+}
+
+.btn-pricing {
+    padding: 14px 38px;
+    border-radius: 10px;
+    margin-top: -15px;
+    margin-left: 32px;
+    border: 2px solid #08bbf7;
+    color: #08bbf7;
+    background-color: transparent;
+}
+
+.list-pricing {
+    margin-top: 10px;
+    margin-left: -33px;
+}
+
+.list-pricing-1 {
+    list-style: none;
+}
+
+.list-pricing-2 {
+    list-style: none;
+}
+
+.pricing-1 {
+    width: 20%;
+    float: left;
+    border: 2px solid transparent;
+    margin-left: 20px;
+    background-color: #fff;
+    border: 2px solid transparent;
+    border-radius: 10px;
+}
+
+.active {
+    background-color: #000;
+    color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-top: -1.5px;
+    width: 86.7%;
+    margin-left: -2px;
+}
+
+.first-pricing-1 h1 {
+    margin-top: 10px;
+}
+
+.first-pricing-1 p {
+    margin-top: 20px;
+}
+
+.pricing-logo-1 img {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.flex-pricing-1 {
+    display: flex;
+}
+
+.pricing-logo-1 {
+    margin-top: 54px;
+    margin-left: 30px;
+}
+
+.list-pricing-1 {
+    margin-top: 44px;
+    margin-left: -30px;
+}
+
+.list-pricing-1 li {
+    list-style: none;
+    margin-bottom: 20px;
+    margin-left: -60px;
+    margin-top: 10px;
+    width: 200%;
+    font-size: 0.9rem;
+}
+
+.h1-pricing-1 {
+    margin-top: 47px;
+}
+
+.h1-pricing-1 h1 {
+    margin-left: 55px;
+    font-size: 30px;
+}
+
+.h2-pricing-1 {
+    position: absolute;
+    top: 483%;
+    left: 50%;
+    font-size: 30px;
+}
+
+.para-pricing-1 {
+    margin-left: 90px;
+    margin-top: -10px;
+}
+
+.btn-pricing-1 {
+    padding: 14px 38px;
+    border-radius: 10px;
+    margin-top: 35px;
+    margin-left: 53px;
+    border: 2px solid #08bbf7;
+    background-color: transparent;
+    margin-bottom: 32px;
+    border: none;
+    background-image: linear-gradient(180deg, #08adf6, #056eeb);
+    color: #fff;
+    font-size: 17px;
+    box-shadow: #056eeb 0px 10px 50px -12px;
+}
+
+.pricing-2 {
+    width: 20%;
+    float: left;
+    border: 2px solid transparent;
+    margin-left: 20px;
+    background-color: #fff;
+    border: 2px solid transparent;
+    border-radius: 10px;
+}
+
+.heading-pricing {
+    margin-left: 25px;
+    margin-bottom: 20px;
+}
+
+.first-pricing-2 {
+    margin-top: 30px;
+}
+
+.first-pricing-2 h1 {
+    margin-top: 10px;
+}
+
+.first-pricing-2 p {
+    margin-top: 20px;
+}
+
+.pricing-logo-2 img {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.flex-pricing-2 {
+    display: flex;
+}
+
+.pricing-logo-2 {
+    margin-top: 54px;
+    margin-left: 30px;
+}
+
+.list-pricing-2 {
+    margin-top: 44px;
+    margin-left: -30px;
+}
+
+.list-pricing-2 li {
+    list-style: none;
+    margin-bottom: 20px;
+    margin-left: -60px;
+    margin-top: 10px;
+    width: 200%;
+    font-size: 0.9rem;
+}
+
+.h1-pricing-2 {
+    margin-top: 45px;
+}
+
+.h1-pricing-2 h1 {
+    margin-left: 55px;
+    font-size: 30px;
+}
+
+.h2-pricing-2 {
+    position: absolute;
+    top: 483%;
+    left: 71.5%;
+    font-size: 30px;
+}
+
+.para-pricing-2 {
+    margin-left: 90px;
+    margin-top: -10px;
+}
+
+.btn-pricing-2 {
+    padding: 14px 38px;
+    border-radius: 10px;
+    margin-top: 35px;
+    margin-left: 53px;
+    border: 2px solid #08bbf7;
+    background-color: transparent;
+    margin-bottom: 32px;
+    border: 2px solid #08bbf7;
+    color: #08bbf7;
+    background-color: transparent;
+}
+
+
+/* Customer Section  */
+
+.customer-heading {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+}
+
+.customer-heading h1 {
+    font-size: 2.4rem;
+    margin-bottom: 15px;
+}
+
+.customer-heading p {
+    margin-bottom: 50px;
+}
+
+.card-all {
+    margin-left: 25px;
+}
+
+.cards {
+    width: 43%;
+    float: left;
+    padding: 10px 30px;
+    border: 2px solid #000;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    border: none;
+    border-radius: 5px;
+}
+
+.top {
+    width: 100%;
+    float: left;
+    margin-bottom: 25px;
+    margin-top: 15px;
+    margin-left: -15px;
+    line-height: 1.4;
+}
+
+.bottom {
+    width: 50%;
+    float: left;
+}
+
+.bottom p {
+    margin-top: 15px;
+    margin-left: 45px;
+    font-size: 0.8rem;
+}
+
+.circle {
+    border: 25px solid #e2e2e2;
+    border-radius: 100%;
+    width: 3%;
+    margin-bottom: 20px;
+    display: flex;
+    float: left;
+    margin-left: -20px;
+    margin-top: 15px;
+}
+
+
+/* Services Section   */
+
+.services {
+    width: 100%;
+    float: left;
+    background-image: linear-gradient(180deg, #08adf6, #056eeb);
+    margin-top: 200px;
+    margin-bottom: 100px;
+    padding: 60px 0px;
+    color: #fff;
+}
+
+.left-services {
+    width: 50%;
+    float: left;
+}
+
+.right-services {
+    width: 50%;
+    float: left;
+}
+
+.left-services h1 {
+    font-size: 3rem;
+    margin-left: 120px;
+    margin-bottom: 20px;
+}
+
+.left-services p {
+    margin-left: 130px;
+    font-size: 0.9rem;
+    width: 60%;
+}
+
+.right-services .btn-services {
+    margin-left: 350px;
+    padding: 10px 25px;
+    border: 2px solid #ffffffc0;
+    background-color: transparent;
+    color: #fff;
+    border-radius: 7px;
+    margin-top: 75px;
+}
+
+
+/* Footer  */
+
+.content {
+    width: 100%;
+    padding: 60px 0px;
+    float: left;
+}
+
+.content .f-1 {
+    width: 20%;
+    float: left;
+    margin-left: 80px;
+}
+
+.content .f-2 {
+    width: 15%;
+    float: left;
+}
+
+.content .f-3 {
+    width: 10%;
+    float: left;
+}
+
+.content .f-4 {
+    width: 10%;
+    float: left;
+}
+
+.content .f-5 {
+    width: 12%;
+    float: left;
+}
+
+.content .f-1 img {
+    width: 100px;
+    filter: invert(1);
+}
+
+.content .f-1 p {
+    padding-top: 10px;
+    font-weight: lighter;
+    font-size: 15px;
+    color: #7d7971;
+}
+
+.content .f-2 {
+    padding-left: 80px;
+}
+
+.content .f-3 {
+    padding-left: 40px;
+}
+
+.content .f-4 {
+    padding-left: 40px;
+}
+
+.content .f-5 {
+    padding-left: 100px;
+}
+
+.content .f-5 .imgs {
+    padding-top: 20px;
+}
+
+.content a {
+    text-decoration: none;
+    color: #7d7971;
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+.content p {
+    margin-top: 20px;
+}
+
+.content .imgs {
+    display: flex;
+}
+
+.content .f-5 .imgs .fb {
+    width: 22%;
+    padding: 8px;
+    border: none;
+    color: #ffffff;
+    border-radius: 100%;
+    background-color: #045de9;
+}
+
+.content .f-5 .imgs .ig {
+    width: 22%;
+    padding: 8px;
+    margin-left: 7px;
+    border: none;
+    color: #ffffff;
+    border-radius: 100%;
+    background-color: #045de9;
+}
+
+.content .f-5 .imgs .yt {
+    width: 22%;
+    padding: 8px;
+    margin-left: 7px;
+    border: none;
+    color: #ffffff;
+    border-radius: 100%;
+    background-color: #045de9;
+}
+
+.content .f-5 .imgs .li {
+    width: 22%;
+    padding: 8px;
+    margin-left: 7px;
+    border: none;
+    color: #ffffff;
+    border-radius: 100%;
+    background-color: #045de9;
+}
+
+.content h4 {
+    color: #1d2d4f;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 8px 0px;
+}
