@@ -44,8 +44,7 @@
 
 # Reminder 😮
 
->## I spent roughly around 4 to 4.5  hours finishing this project. The most of my time was focused on CSS Portion.
-
+>## I spent roughly around 4 to 4.5  hours finishing this project. The most of my time was focused on CSS Portion. And this is a `Responsive Design`.
 
 
 
